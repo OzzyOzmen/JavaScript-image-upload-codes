@@ -1,5 +1,12 @@
 ﻿// html + javascript yani front end kısmı
 ----------------------------------------------------------------------------------------------------------------------------------------
+/* önce nerden kullanacaksanız 
+<!-- Jquery Core Js -->
+            <script src="plugins/jquery/jquery.min.js"></script>
+ekleyiniz */
+
+
+
                                             <div class="row">
                                                 <div class="col-lg-4 col-sm-6 col-xs-6 col-md-4">
                                                     <a href="javascript:void(0);" class="thumbnail">
