@@ -1,9 +1,9 @@
-﻿// html + javascript yani front end kısmı
+﻿// html + javascript frontend codes 
 ----------------------------------------------------------------------------------------------------------------------------------------
-/* önce nerden kullanacaksanız 
+/*  you can change the path of js file however u want.
 <!-- Jquery Core Js -->
             <script src="plugins/jquery/jquery.min.js"></script>
-ekleyiniz ve js dosya yolunu kendinize göre ayarlayın yani değiştirin gerekiyorsa */
+*/
 
 
 
@@ -68,7 +68,7 @@ ekleyiniz ve js dosya yolunu kendinize göre ayarlayın yani değiştirin gereki
                                       </div>
 									  
 -----------------------------------------------------------------------------------------------------------------------------
-C# yani backend kısmı
+C# yani backend codes
 
  var img1 = this.Context.Request.Form["hid1"].ToString().Clean();
  var img2 = this.Context.Request.Form["hid2"].ToString().Clean();
