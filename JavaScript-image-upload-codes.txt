@@ -70,6 +70,6 @@
 -----------------------------------------------------------------------------------------------------------------------------
 C# yani backend codes
 
- var img1 = this.Context.Request.Form["hid1"].ToString().Clean();
- var img2 = this.Context.Request.Form["hid2"].ToString().Clean();
- var img3 = this.Context.Request.Form["hid3"].ToString().Clean();
+ var img1 = this.Context.Request.Form["hid1"].ToString();
+ var img2 = this.Context.Request.Form["hid2"].ToString();
+ var img3 = this.Context.Request.Form["hid3"].ToString();
