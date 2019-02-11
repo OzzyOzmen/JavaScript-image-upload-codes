@@ -3,7 +3,7 @@
 /* önce nerden kullanacaksanız 
 <!-- Jquery Core Js -->
             <script src="plugins/jquery/jquery.min.js"></script>
-ekleyiniz */
+ekleyiniz ve js dosya yolunu kendinize göre ayarlayın yani değiştirin gerekiyorsa */
 
 
 
