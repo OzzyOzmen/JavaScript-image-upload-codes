@@ -68,7 +68,7 @@
                                       </div>
 									  
 -----------------------------------------------------------------------------------------------------------------------------
-C# yani backend codes
+C# yani backend codes4 saving to datebase or whereever u want
 
  var img1 = this.Context.Request.Form["hid1"].ToString();
  var img2 = this.Context.Request.Form["hid2"].ToString();
