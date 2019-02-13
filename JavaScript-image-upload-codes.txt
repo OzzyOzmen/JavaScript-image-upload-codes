@@ -1,8 +1,13 @@
 ﻿﻿// html + javascript frontend codes 
 ----------------------------------------------------------------------------------------------------------------------------------------
 /*  you can change the path of js file however u want.
+<!-- Imgupload css -->
+<link href="css/site.css" rel="stylesheet" />
+*/
 <!-- Jquery Core Js -->
-            <script src="plugins/jquery/jquery.min.js"></script>
+    <script src="Scripts/jquery.js"></script>
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="Scripts/jquery.min.js"></script>
 */
 
 
